@@ -1,6 +1,6 @@
 # Video_duration_file_collect
 
-<img src="https://github.com/amandinesandri/Video_duration_file_collect/Screenshot_20200330-190246_edX.jpg" width="300" height="600">
+<img src="https://github.com/amandinesandri/Video_duration_file_collect/blob/master/Screenshot_20200330-190246_edX.jpg" width="300" height="600">
 
 Those scripts allow to enter into folders, detect which file is the lecture one according to its extension and record the corresponding duration into folde.
 
